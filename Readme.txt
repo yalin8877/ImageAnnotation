@@ -11,7 +11,7 @@ If you wanna reuse it, set it up in this way:
 If any wrong happens when you use this software, it may be because of that the image path in the score file is not compatible with images' real path, and check to make sure that you have the right score file format.
 
 
-Since this software is finished in two days, it's not so UI friendly and may include some mistakes. Feel free to mail your questions to zhangctou@gmail.com .If you want to reuse it with your lab experiments, I may also provide some help on redesigning it a little bit.
+Since this software is finished in two days, it's not so friendly in UI and may include some mistakes. Feel free to mail your questions to zhangctou@gmail.com .If you want to reuse it with your lab experiments, I may also provide some help on redesigning it a little bit.
 
 
 For detail introduction, see ImageAnnotationInstruction.doc.
